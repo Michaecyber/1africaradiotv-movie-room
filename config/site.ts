@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "Hygraphlix",
+	name: "1Africaradiotv",
 	description: "A movie streaming platform",
 	navItems: [
 		{
@@ -48,8 +48,8 @@ export const siteConfig = {
 		},
 	],
 	links: {
-		github: "https://github.com/lowisren/hygraph-movie-starter/",
-		twitter: "https://twitter.com/hygraph",
-		docs: "https://hygraph.com/docs",
+		github: "https://github.com/",
+		twitter: "https://twitter.com/1africaradiotv",
+		docs: "https://1africaradiotv.com/",
 	},
 };
