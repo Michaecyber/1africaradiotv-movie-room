@@ -56,11 +56,11 @@ export default function RootLayout({
 							<Link
 								isExternal
 								className="flex items-center gap-1 text-current"
-								href="https://hygraph.com/"
-								title="Hygraph homepage"
+								href="https://1africaradiotv.com/"
+								title="1AFRICARADIOTV MOVIE ROOM homepage"
 							>
 								<span className="text-default-600">Brought to you by</span>
-								<p className="text-primary">Hygraph</p>
+								<p className="text-primary">1AFRICARADIOTV MOVIE ROOM</p>
 							</Link>
 						</footer>
 					</div>
