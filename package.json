@@ -1,11 +1,11 @@
 {
-  "name": "hygraph-movie-starter",
+  "name": "1AFRICARADIOTV",
   "version": "1.0.0",
   "private": false,
   "author": {
-    "name": "Lo Etheridge for Hygraph CMS"
+    "name": "1AFRICARADIOTV"
   },
-  "description": "A starter template for Hygraph headless CMS with content federation built in TypeScript using Next.js 14, Tailwind CSS 3, Next UI, and Mux",
+  "description": "1AfricaRadioTv A Pan African Multilingual Platform Listening to the Greatest Music Contemporary ",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
