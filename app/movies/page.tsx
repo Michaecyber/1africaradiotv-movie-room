@@ -66,7 +66,7 @@ export default async function Movies() {
     <main className="flex flex-col justify-between">
       <section className="mb-32 text-center">
         <h1 className={title({size: "lg"})}>
-          Hygraphlix{" "}
+         1AFRICARADIOTV{" "}
           <span className="px-2 py-2 ">Movie Collection</span>
         </h1>
         <div className="grid my-8 w-px-5 lg:gap-xl-12 gap-x-6 md:grid-cols-2 lg:grid-cols-4">
