@@ -57,7 +57,7 @@ export default function RootLayout({
 								isExternal
 								className="flex items-center gap-1 text-current"
 								href="https://1africaradiotv.com/"
-								title="1AFRICARADIOTV MOVIE ROOM homepage"
+								title="1AFRICARADIOTV homepage"
 							>
 								<span className="text-default-600">Brought to you by</span>
 								<p className="text-primary">1AFRICARADIOTV</p>
