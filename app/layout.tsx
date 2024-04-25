@@ -60,7 +60,7 @@ export default function RootLayout({
 								title="1AFRICARADIOTV MOVIE ROOM homepage"
 							>
 								<span className="text-default-600">Brought to you by</span>
-								<p className="text-primary">1AFRICARADIOTV MOVIE ROOM</p>
+								<p className="text-primary">1AFRICARADIOTV</p>
 							</Link>
 						</footer>
 					</div>
