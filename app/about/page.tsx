@@ -7,9 +7,9 @@ export default function AboutPage() {
     <div className="container px-4 mx-auto">
       <div className="container px-4 mx-auto">
       <section className="py-10">
-        <h1 className={title()}>Welcome to our Movieplex</h1>
+        <h1 className={title()}>Welcome to our 1AFRICARADIOTV</h1>
         <p className="my-10">
-          Movieplex is one of the world's leading entertainment services with 270 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+          1Africaradiotv is one of the world's leading entertainment services with 270 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
         </p>
       </section>
       <section className="py-4">
